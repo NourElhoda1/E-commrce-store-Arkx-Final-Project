@@ -7,9 +7,6 @@ SportsGearHub is a full-stack e-commerce and stadium booking platform developed 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Development](#development)
-- [Deployment](#deployment)
 
 ## Introduction
 
